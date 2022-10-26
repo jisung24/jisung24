@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>😝 ME 😝</h3>
+    <h2>😝 ME 😝</h2>
 </div>
 <div align="center">
     <h3> ✨ Tech Stack ✨</h3>
